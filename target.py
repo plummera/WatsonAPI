@@ -68,7 +68,7 @@ def compare(dict1, dict2):
 
 
 #The two Twitter handles
-user_handle =
+user_handle = "AnthonyTPlummer"
 celebrity_handle = "@IBM"
 
 #Analyze the user's tweets using the Watson PI API

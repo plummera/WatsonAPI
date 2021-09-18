@@ -23,8 +23,8 @@ def analyze(handle):
             text += status.text.encode('utf-8')
 
     #IBM credentials
-    pi_username = 'b79efe2a-2f93-496a-8914-a816a3a5796d'
-    pi_password = 'M8NwqbHc8Ebs'
+    pi_username = ''
+    pi_password = ''
 
     personality_insights = PersonalityInsights(username=pi_username,password=pi_password)
 
